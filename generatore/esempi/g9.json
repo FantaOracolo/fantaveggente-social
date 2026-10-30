@@ -1,0 +1,78 @@
+{
+ "giornata": 9,
+ "sottotitolo": "7 cose assurde della 9ª giornata",
+ "gancio": "Il 4% di possibilità. E ti pareva: proprio contro di me.",
+ "metodo": "Probabilità stimate prima della partita con i dati di Serie A dalla stagione scorsa: media gol del giocatore e minuti giocati, forza delle squadre, frequenza di autogol e rigori. Voti Fantacalcio.it, bonus e malus classici. Numeri arrotondati.",
+ "eventi": [
+  {
+   "partita": "Genoa 2-0 Juventus",
+   "nome": "Difesa Juve",
+   "cosa": "Crolla a Marassi in 28 minuti. E non segna.",
+   "pct": "4%",
+   "n": "25",
+   "card": "Cambiaso **4**, Kalulu **4,5**, Bremer **5**. Vicario !!−2!!.",
+   "frase": "Blocco Juve schierato? Ecco, appunto."
+  },
+  {
+   "partita": "Roma 4-2 Cagliari",
+   "nome": "Malen",
+   "cosa": "Parte in panchina, decide all'87'.",
+   "pct": "1,9%",
+   "n": "52",
+   "card": "Gol dalla panchina: fantavoto **10**. Mora **11,5**.",
+   "frase": "Panchinato da te. Decisivo per tutti gli altri."
+  },
+  {
+   "partita": "Milan 2-4 Bologna",
+   "nome": "Maignan",
+   "cosa": "Quattro gol in casa. Dal Bologna.",
+   "pct": "1,2%",
+   "n": "84",
+   "card": "Voto 6, quattro gol subiti: fantavoto **2**.",
+   "frase": "Pagato più del tuo centravanti. Fantavoto 2."
+  },
+  {
+   "partita": "Sassuolo 2-6 Lazio",
+   "nome": "Šutalo",
+   "cosa": "Il gol di Thorstvedt diventa suo autogol. Poi il rosso.",
+   "pct": "0,6%",
+   "n": "170",
+   "card": "Šutalo !!−2!!, fantavoto **3,5**. Thorstvedt **4**.",
+   "frase": "Thorstvedt segna senza bonus. Šutalo prende −2."
+  },
+  {
+   "partita": "Milan 2-4 Bologna",
+   "nome": "Mbangula",
+   "cosa": "Prima presenza stagionale. Tripletta a San Siro.",
+   "pct": "0,23%",
+   "n": "430",
+   "card": "Voto 9 più tre gol: fantavoto **18**.",
+   "frase": "Tagga chi l'ha lasciato in panchina. O svincolato."
+  },
+  {
+   "partita": "Venezia 0-2 Inter",
+   "nome": "Inter",
+   "cosa": "Vince 2-0 senza segnare: due autogol del Venezia.",
+   "pct": "0,04%",
+   "n": "2.500",
+   "card": "Zero gol, zero assist: **nessun bonus**. Thuram **6,5**.",
+   "frase": "Tre interisti schierati. Zero bonus. E ti pareva."
+  },
+  {
+   "partita": "Sassuolo 2-6 Lazio",
+   "nome": "Turati",
+   "cosa": "Para due rigori. Ne prende sei.",
+   "pct": "0,03%",
+   "n": "3.200",
+   "card": "6 gol presi, chiude con **7**. Zaccagni e Frattesi !!−3!!.",
+   "frase": "Il fantacalcio non ha senso. Ed è bellissimo."
+  }
+ ],
+ "rubrica": "Il Veggente dà i numeri",
+ "copertina": {
+  "titolo": "7 cose<br>improbabili<br><b>dell'ultima<br>giornata.</b>",
+  "size": 146,
+  "frase": "Lo <span style=\"color:#F5B23E;text-shadow:0 0 12px rgba(245,178,62,.6)\">0,23%</span> di possibilità contro di te.<br>E ti pareva.",
+  "vicini": "Se te n'è capitata più di una, ti siamo vicini."
+ }
+}
